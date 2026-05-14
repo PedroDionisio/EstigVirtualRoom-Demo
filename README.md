@@ -98,48 +98,48 @@ A migração afectou múltiplas camadas do projecto, tais como a Base de dados, 
   <table>
     <tr>
       <td align="center">
-        <img width="400" alt="Login" src="https://github.com/user-attachments/assets/10134e49-7a7c-4ca2-8e68-bbbe39b1a29f" />
+        <img width="400" alt="Login" src="Folder/logins.png" />
         <br/>
         <em>Interface de login</em>
       </td>
       <td align="center">
-      <img width="400" alt="Login" src="https://github.com/user-attachments/assets/2a3073d5-17f7-444a-854e-93252bad1028" /> 
+      <img width="400" alt="Login" src="Folder/Escolha avatar.jpg" /> 
         <br/>
         <em>Selecção de avatar com pré-visualização em tempo real</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img width="400" alt="Jogo" src="https://github.com/user-attachments/assets/b23b9660-36de-4df1-b3d5-23f51d4467db" />  
+        <img width="400" alt="Jogo" src="Folder/Sala h2o.jpg" />  
         <br/>
         <em>Sala H2O com NPCs e ambiente interactivo</em>
       </td>
       <td align="center">
-        <img width="400" alt="Chat" src="https://github.com/user-attachments/assets/a9d199c4-6339-4e4d-82f0-47996df4e1aa" />
+        <img width="400" alt="Chat" src="Folder/Sincronizaçao.png" />
         <br/>
         <em>Ambiente multiplayer com avatares sincronizados</em>
       </td>
     </tr>
      <tr>
       <td align="center">
-        <img width="400" alt="Jogo" src="https://github.com/user-attachments/assets/39fc3392-1e62-475f-b7b7-ed3e0b64edc9" />
+        <img width="400" alt="Jogo" src="Folder/chat texto.png" />
         <br/>
         <em>Chat de texto com mensagens públicas</em>
       </td>
       <td align="center">
-        <img width="400" alt="Chat" src="https://github.com/user-attachments/assets/928ff04d-1c39-42da-a8e7-83b15ec998c1" />
+        <img width="400" alt="Chat" src="Folder/placard.png" />
         <br/>
         <em>Placard de Interação </em>
       </td>
     </tr>
          <tr>
       <td align="center">
-        <img width="400" alt="Jogo" src="https://github.com/user-attachments/assets/07f82951-5f45-4cd0-9d00-0fbc95106b81" />  
+        <img width="400" alt="Jogo" src="notificaçoes.jpg" />  
         <br/>
         <em>Sistema de Notificações </em>
       </td>
       <td align="center">
-        <img width="400" alt="Chat" src="https://github.com/user-attachments/assets/e9c9fdcc-e2f5-47f1-8e78-0ce84450f48a" /> 
+        <img width="400" alt="Chat" src="NPCS.jpg" /> 
         <br/>
         <em>Interação com NPC </em>
       </td>
